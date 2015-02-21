@@ -1,5 +1,5 @@
 imq.github.com
 ==============
 
-The official http://linuximq.net web site for IMQ module.
+The official http://www.linuximq.net web site for IMQ module.
 
